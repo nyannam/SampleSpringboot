@@ -2,7 +2,6 @@ package com.learnprogramming.springdatajpa.service;
 
 import com.learnprogramming.springdatajpa.data.entities.University;
 import com.learnprogramming.springdatajpa.data.repository.UniversityRepository;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
